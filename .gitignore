@@ -2,3 +2,8 @@
 .env
 **/.env
 *.env
+
+# json service account
+sa-gcp-mlflow.json
+**/sa-gcp-mlflow.json
+*sa-gcp-mlflow.json
